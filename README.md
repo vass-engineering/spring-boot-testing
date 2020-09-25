@@ -2,4 +2,7 @@
 
 
 Reporting using maven site plugin with testing and cobertura
+
+```
 ./mvnw site
+```
