@@ -4,3 +4,4 @@ target
 .*
 !.git*
 !.editorconfig
+!.github
